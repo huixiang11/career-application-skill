@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+private/
+resumes/
+recordings/
+applications/
+*.log
+.DS_Store
+Thumbs.db

@@ -1,0 +1,6 @@
+interface:
+  display_name: "简历与求职实战"
+  short_description: "搜索在招岗位与官网投递入口，核对校招资格，定制简历并复盘面试"
+  default_prompt: "请使用 $career-application，结合我的简历与求职偏好搜索岗位，核验资格、在招状态和投递链接，再按需优化申请材料。"
+policy:
+  allow_implicit_invocation: true
